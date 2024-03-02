@@ -1,0 +1,29 @@
+{
+  "name": "imagine_book_store_api",
+  "version": "1.0.0",
+  "description": "imagine_book_store_api",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njoanc/imagine_book_store_api.git"
+  },
+  "keywords": [
+    "Express.js",
+    "swagger",
+    "ui",
+    "chai",
+    "jest",
+    "Docker",
+    "TypeORM",
+    "MySQL"
+  ],
+  "author": "Jeanne d'Arc NYIRAMWIZA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/njoanc/imagine_book_store_api/issues"
+  },
+  "homepage": "https://github.com/njoanc/imagine_book_store_api#readme"
+}
